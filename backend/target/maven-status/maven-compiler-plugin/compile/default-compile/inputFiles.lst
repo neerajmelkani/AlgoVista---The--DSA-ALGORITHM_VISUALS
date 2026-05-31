@@ -1,0 +1,10 @@
+D:\Algorithm Flow Visualizer\backend\src\main\java\com\algovista\algovista_backend\AlgovistaBackendApplication.java
+D:\Algorithm Flow Visualizer\backend\src\main\java\com\algovista\algovista_backend\config\WebConfig.java
+D:\Algorithm Flow Visualizer\backend\src\main\java\com\algovista\algovista_backend\controller\AlgorithmController.java
+D:\Algorithm Flow Visualizer\backend\src\main\java\com\algovista\algovista_backend\controller\CodeSnippetController.java
+D:\Algorithm Flow Visualizer\backend\src\main\java\com\algovista\algovista_backend\model\Algorithm.java
+D:\Algorithm Flow Visualizer\backend\src\main\java\com\algovista\algovista_backend\model\CodeSnippet.java
+D:\Algorithm Flow Visualizer\backend\src\main\java\com\algovista\algovista_backend\repository\AlgorithmRepository.java
+D:\Algorithm Flow Visualizer\backend\src\main\java\com\algovista\algovista_backend\repository\CodeSnippetRepository.java
+D:\Algorithm Flow Visualizer\backend\src\main\java\com\algovista\algovista_backend\service\AlgorithmService.java
+D:\Algorithm Flow Visualizer\backend\src\main\java\com\algovista\algovista_backend\service\CodeSnippetService.java
