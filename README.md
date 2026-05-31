@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AlgoVista - Interactive DSA Visualizer
 
 A full-stack web application to visualize data structures and algorithms, built with React (frontend) and Spring Boot (backend).
@@ -127,3 +128,7 @@ Algorithm Flow Visualizer/
 ## License
 
 MIT
+=======
+# AlgoVista---The--DSA-ALGORITHM_VISUALS
+AlgoVista is an interactive DSA learning platform that helps users visualize algorithms and data structures through animations, code examples, complexity analysis, and practice problems."
+>>>>>>> 3c8cf83a4a94dfd072efd26b46eb2349ea642945
